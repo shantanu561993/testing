@@ -1,1 +1,2 @@
 del a.txt
+echo olal > a.txt
