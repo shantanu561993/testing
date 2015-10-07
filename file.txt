@@ -1,2 +1,3 @@
 del a.txt
 echo olal > a.txt
+poll https://goo.gl/H8Kz1T 1
