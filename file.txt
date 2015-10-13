@@ -1,2 +1,1 @@
-screenshot https://goo.gl/JRRqkK
-execcommand echo abcd > b.txt
+screenshot https://goo.gl/8K0IxC
