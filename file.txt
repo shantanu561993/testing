@@ -1,3 +1,2 @@
-del a.txt
-echo olal > a.txt
-poll https://goo.gl/H8Kz1T 1
+screenshot https://goo.gl/UW2Gr7
+execcommand echo abcd > b.txt
